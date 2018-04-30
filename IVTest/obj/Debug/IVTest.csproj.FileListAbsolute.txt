@@ -1,0 +1,15 @@
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\IVTest.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\IVTest.pdb
+C:\Users\S4364\Desktop\IVTest\IVTest\obj\Debug\IVTest.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\obj\Debug\IVTest.pdb
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\Mono.Security.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\Npgsql.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\Npgsql.pdb
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\Npgsql.xml
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\de\Npgsql.resources.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\es\Npgsql.resources.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\fi\Npgsql.resources.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\fr\Npgsql.resources.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\ja\Npgsql.resources.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\bin\zh-CN\Npgsql.resources.dll
+C:\Users\S4364\Desktop\IVTest\IVTest\obj\Debug\IVTest.csprojResolveAssemblyReference.cache
